@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RotationCipher!</string>
+    <string name="app_name">Rotation Cipher</string>
+<string name="encrypt_text">Encrypt</string>
+<string name="decrypt_text">Decrypt</string>
+<string name="close_text">Close</string>
+<string-array name="rotation_list"><item>Rotation 13</item>
+<item>Rotation 10</item>
+<item>Rotation 11</item>
+<item>Rotation 12</item>
+</string-array>
+
+<string name="rotation_prompt">Select a Rotation Amount</string>
+</resources>
